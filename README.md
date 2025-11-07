@@ -5,7 +5,7 @@ health parameters like Heart Rate (HR), Heart Rate Variability (HRV), Stress Lev
 — all through a simple face scan using a camera.
 This project brings hospital-grade monitoring to your desktop or smartphone using remote photoplethysmography (rPPG)
 and machine learning-based BP estimation.
-
+-------------------------------------------------------------------------------------------------------------------------------------
 🚀 Key Features
 🔹 Real-Time Monitoring
     Detects Heart Rate directly from facial micro-color variations captured by a webcam.
