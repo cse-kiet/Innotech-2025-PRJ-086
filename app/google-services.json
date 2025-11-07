@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "179371629983",
+    "project_id": "heallens-f4f55",
+    "storage_bucket": "heallens-f4f55.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:179371629983:android:db019d97ee663d8bac71aa",
+        "android_client_info": {
+          "package_name": "com.example.face_recognition"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBW_fL4IVKC_N4Y96AlaCMcitEOmqrBzPA"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
